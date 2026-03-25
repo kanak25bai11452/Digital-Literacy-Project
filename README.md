@@ -1,2 +1,29 @@
-# Digital-Literacy-Project
-This project focuses on digital literacy, professional communication, coding practice, and cyber-security awareness. It includes an infographics, student digital portfolio, coding platform exploration, email etiquette, and a cyber crime case study with prevention tips.
+# Digital Literacy Project
+
+## Name: KANAK GUPTA
+## Branch: CSE(AI/ML)
+## Year: FIRST
+
+## About the Project
+This project focuses on digital literacy, professional communication, coding practice, and cyber security awareness.
+
+## Tasks Included
+### Task 1: Digital Literacy Infographic
+Created an infographic explaining digital literacy, safe internet practices, and useful tools.
+### Task 2: Student Digital Portfolio
+Built profiles on platforms like GitHub and LinkedIn.
+### Task 3: Coding & Collaboration
+Solved a coding problem and created a Google Form quiz.
+### Task 4: Email & Etiquette
+Wrote professional emails and social media guidelines.
+### Task 5: Cybercrime Awareness
+Created a case study and prevention checklist.
+
+## Tools Used
+- Canva
+- GitHub
+- Google Forms
+- HackerRank / CodeChef
+
+## Learning Outcome
+Improved digital skills, communication, and awareness of online safety.
