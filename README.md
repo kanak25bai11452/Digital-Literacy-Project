@@ -1,31 +1,33 @@
-# Digital Literacy Project
+# Digital Literacy Project - VIT Bhopal
+**Student Name:** KANAK GUpta  
+**Registration Number:** 25BAI11452
+**Branch:** CSE(AI/ML)
+## Project Overview
+This project is part of the Digital Literacy curriculum. It demonstrates proficiency in digital design, professional online presence, coding, collaborative tools, and cyber safety awareness.
 
-## Name: KANAK GUPTA
-## Branch: CSE(AI/ML)
-## Year: FIRST
+## Repository Structure
+- `task-1-infographic/`: Digital Literacy Infographic (Canva).
+- `task-2-protfolio/`: Professional profiles (LinkedIn, GitHub, Kaggle).
+- `task-3-platforms/`: Coding practice and collaboration tools.
+- `task-4-email-etiquette/`: Professional emails and social media guidelines.
+- `task-5-cybercrime/`: UPI case study and safety prevention guide.
+- `report/`: Comprehensive Final Project Report (PDF).
 
-## About the Project
-This project focuses on digital literacy, professional communication, coding practice, and cyber security awareness.
+## Task 3: Digital Collaboration
+As part of the collaboration task, I have created a Digital Literacy Awareness Survey.
+- **Google Form Link:** [https://docs.google.com/forms/d/1qVnl3vplT3RWdPkgtzh5ct-VxH-5_JOaKMcW1eVaeA0/edit]
+- **HackerRank Status:** Solved Python basic challenges.
 
-## Tasks Included
-### Task 1: Digital Literacy Infographic
-Created an infographic explaining digital literacy, safe internet practices, and useful tools.
-### Task 2: Student Digital Portfolio
-Built profiles on platforms like GitHub, LinkedIn, Kaggle.
-### Task 3: Coding & Collaboration
-Solved a coding problem and created a Google Form quiz.
-### Task 4: Email & Etiquette
-Wrote professional emails and social media guidelines.
-### Task 5: Cybercrime Awareness
-Created a case study and prevention checklist.
+## How to Run the Project (Executability)
+To comply with the project's executability requirements, a Python script is provided to summarize the project status via terminal.
 
-## Tools Used
-- Canva
-- Google Form
-- GitHub
-- Kaggle
-- LinkedIn
-- HackerRank
+### Prerequisites
+- Python 3.x installed.
 
-## Learning Outcome
-Improved digital skills, communication, and awareness of online safety.
+### Steps to Execute:
+1. Clone the repository:
+   `git clone https://github.com/sweksha25bcy10159/digital-literacy-project.git`
+2. Enter the directory:
+   `cd digital-literacy-project`
+3. Run the script:
+   `python main.py`
