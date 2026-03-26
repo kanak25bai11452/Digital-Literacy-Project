@@ -28,6 +28,6 @@ To comply with the project's executability requirements, a Python script is prov
 1. Clone the repository:
    `git clone https://github.com/kanak25bai11452/Digital-Literacy-Project/tree/main.git`
 2. Enter the directory:
-   `cd Digital-Literacy-Project`
+   `Digital-Literacy-Project.docx`
 3. Run the script:
    `python main.py`
